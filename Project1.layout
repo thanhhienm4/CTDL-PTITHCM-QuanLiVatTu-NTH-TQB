@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="default" />
+	<File name="nhap.h" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4504" topLine="201" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cthoadon.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="554" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="mylib1.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="VATTU.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7053" topLine="372" />
+		</Cursor>
+	</File>
+	<File name="nhanvien.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="148" topLine="234" />
+		</Cursor>
+	</File>
+	<File name="editor.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1856" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="giaodien.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9666" topLine="399" />
+		</Cursor>
+	</File>
+	<File name="header.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4593" topLine="247" />
+		</Cursor>
+	</File>
+	<File name="ThanhTimKiem.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="99" topLine="52" />
+		</Cursor>
+	</File>
+	<File name="khaibao.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9346" topLine="445" />
+		</Cursor>
+	</File>
+	<File name="function.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11308" topLine="442" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
+[Editors]
+Order=13,1,2,12,0,3,11,4,5,6,7,9,8,10
+Focused=13
+[Editor_0]
+CursorCol=2
+CursorRow=205
+TopLine=109
+LeftChar=1
+[Editor_1]
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_2]
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_3]
+CursorCol=26
+CursorRow=431
+TopLine=412
+LeftChar=1
+[Editor_4]
+CursorCol=21
+CursorRow=336
+TopLine=316
+LeftChar=1
+[Editor_5]
+CursorCol=28
+CursorRow=79
+TopLine=216
+LeftChar=1
+[Editor_6]
+CursorCol=2
+CursorRow=10
+TopLine=1
+LeftChar=1
+[Editor_7]
+CursorCol=17
+CursorRow=11
+TopLine=38
+LeftChar=1
+[Editor_8]
+CursorCol=12
+CursorRow=219
+TopLine=211
+LeftChar=1
+[Editor_9]
+CursorCol=14
+CursorRow=21
+TopLine=90
+LeftChar=1
+[Editor_10]
+CursorCol=13
+CursorRow=443
+TopLine=431
+LeftChar=1
+[Editor_11]
+CursorCol=57
+CursorRow=31
+TopLine=19
+LeftChar=1
+[Editor_12]
+CursorCol=9
+CursorRow=11
+TopLine=1
+LeftChar=1
+[Editor_13]
+CursorCol=15
+CursorRow=418
+TopLine=412
+LeftChar=1

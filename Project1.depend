@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1591365744 source:d:\qlvtfinal\qlvtok\qlvttest (1)\main.cpp
+	<iostream>
+	"giaodien.h"
+
+1592278463 d:\qlvtfinal\qlvtok\qlvttest (1)\giaodien.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<dos.h>
+	<string.h>
+	<windows.h>
+	"mylib1.h"
+	"function.h"
+	"editor.h"
+	"nhanvien.h"
+	"cthoadon.h"
+	"VATTU.h"
+	<vector>
+
+1591060896 d:\qlvtfinal\qlvtok\qlvttest (1)\mylib1.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+	<windows.h>
+
+1592067916 d:\qlvtfinal\qlvtok\qlvttest (1)\function.h
+	"VATTU.h"
+	"nhanvien.h"
+	"nhap.h"
+	<sstream>
+
+1592280375 d:\qlvtfinal\qlvtok\qlvttest (1)\vattu.h
+	<iostream>
+	"header.h"
+	"editor.h"
+	<string.h>
+	"ThanhTimKiem.h"
+
+1592024234 d:\qlvtfinal\qlvtok\qlvttest (1)\header.h
+	<fstream>
+	<ctime>
+
+1592066136 d:\qlvtfinal\qlvtok\qlvttest (1)\editor.h
+	<iostream>
+	"nhap.h"
+	"ThanhTimKiem.h"
+
+1591971203 d:\qlvtfinal\qlvtok\qlvttest (1)\nhap.h
+	<conio.h>
+	<cstring>
+	"mylib1.h"
+	"header.h"
+
+1591971203 d:\qlvtfinal\qlvtok\qlvttest (1)\thanhtimkiem.h
+	<iostream>
+	<cstring>
+	"khaibao.h"
+
+1592280375 d:\qlvtfinal\qlvtok\qlvttest (1)\nhanvien.h
+	"cthoadon.h"
+	"ThanhTimKiem.h"
+	"nhap.h"
+	"function.h"
+	"editor.h"
+
+1592280447 d:\qlvtfinal\qlvtok\qlvttest (1)\cthoadon.h
+	"header.h"
+	"nhanvien.h"
+
+1592066787 d:\qlvtfinal\qlvtok\qlvttest (1)\khaibao.h
+	"header.h"
+	"editor.h"
+
+1591365744 source:c:\users\admin\downloads\qlvt_tqb_nth\main.cpp
+	<iostream>
+	"giaodien.h"
+
+1592473468 c:\users\admin\downloads\qlvt_tqb_nth\giaodien.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<dos.h>
+	<string.h>
+	<windows.h>
+	"mylib1.h"
+	"function.h"
+	"editor.h"
+	"nhanvien.h"
+	"cthoadon.h"
+	"VATTU.h"
+	<vector>
+
+1591060896 c:\users\admin\downloads\qlvt_tqb_nth\mylib1.h
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+	<windows.h>
+
+1592470600 c:\users\admin\downloads\qlvt_tqb_nth\function.h
+	"VATTU.h"
+	"nhanvien.h"
+	"nhap.h"
+	<sstream>
+	<iomanip>
+
+1592490997 c:\users\admin\downloads\qlvt_tqb_nth\vattu.h
+	<iostream>
+	"header.h"
+	"editor.h"
+	<string.h>
+	"ThanhTimKiem.h"
+
+1592024234 c:\users\admin\downloads\qlvt_tqb_nth\header.h
+	<fstream>
+	<ctime>
+
+1592492083 c:\users\admin\downloads\qlvt_tqb_nth\editor.h
+	<iostream>
+	"nhap.h"
+	"ThanhTimKiem.h"
+
+1591971203 c:\users\admin\downloads\qlvt_tqb_nth\nhap.h
+	<conio.h>
+	<cstring>
+	"mylib1.h"
+	"header.h"
+
+1592466507 c:\users\admin\downloads\qlvt_tqb_nth\thanhtimkiem.h
+	<iostream>
+	<cstring>
+	"khaibao.h"
+
+1592465796 c:\users\admin\downloads\qlvt_tqb_nth\khaibao.h
+	"header.h"
+	"editor.h"
+
+1592492723 c:\users\admin\downloads\qlvt_tqb_nth\nhanvien.h
+	"cthoadon.h"
+	"ThanhTimKiem.h"
+	"nhap.h"
+	"function.h"
+	"editor.h"
+
+1592490997 c:\users\admin\downloads\qlvt_tqb_nth\cthoadon.h
+	"header.h"
+	"nhanvien.h"
+	"iomanip"
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Project1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="Project1" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="DataHoaDon.txt" />
+		<Unit filename="DataNhanVien.txt" />
+		<Unit filename="DataVatTu.txt" />
+		<Unit filename="ThanhTimKiem.h" />
+		<Unit filename="VATTU.h" />
+		<Unit filename="cthoadon.h" />
+		<Unit filename="editor.h" />
+		<Unit filename="function.h" />
+		<Unit filename="giaodien.h" />
+		<Unit filename="header.h" />
+		<Unit filename="khaibao.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mylib1.h" />
+		<Unit filename="nhanvien.h" />
+		<Unit filename="nhap.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
